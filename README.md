@@ -4,7 +4,7 @@
 
 Dildosu is a Windows desktop app that drives Lovense (and other Buttplug‑compatible) toys based on what is happening in your [osu!](https://osu.ppy.sh/) session. It reads gameplay state from [gosumemory](https://github.com/l3lackShark/gosumemory) and turns hits, misses, slider breaks, combo, and HP into vibration commands sent through [Intiface Central](https://intiface.com/central/) / the [Buttplug](https://buttplug.io/) protocol.
 
-Dildosu
+![Dildosu](docs/screenshot.png)
 
 ## Features
 

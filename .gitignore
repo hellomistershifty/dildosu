@@ -109,6 +109,10 @@ appsettings.*.local.json
 # Project-specific
 # ---------------------------------------------------------------------------
 
+# Build artifacts produced by `dotnet publish` and the release-zip step
+publish/
+dist/
+
 # Don't commit the bundled Intiface installer; users should download it themselves
 intiface-*.exe
 Intiface*.exe
